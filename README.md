@@ -1,12 +1,4 @@
-# Android Developer Roadmap - [MindOrks](https://mindorks.com)
-[![Mindorks](https://img.shields.io/badge/mindorks-opensource-blue.svg)](https://mindorks.com/open-source-projects)
-[![Mindorks Community](https://img.shields.io/badge/join-community-blue.svg)](https://mindorks.com/join-community)
-
-> A complete roadmap to learn Android App Development. This roadmap will help you in becoming a complete Android Developer.
-
-<p align="center">
-<img alt="Android Developer Roadmap" src="https://raw.githubusercontent.com/MindorksOpenSource/android-developer-roadmap/master/images/android_developer_roadmap.png">
-</p>
+## Roadmap_to_learn_Android_App_Development
 
 ### Note: All the resources to learn all of the above in the roadmap will be provided on [MindOrks Website](https://mindorks.com)
 
