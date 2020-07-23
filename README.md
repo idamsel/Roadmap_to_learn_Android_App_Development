@@ -18,9 +18,7 @@ SmartHerd https://www.youtube.com/smartherd ({This channel provide some fantasti
 
   At Instagram also you find some learning accounts. My favourite one is below...
 
-Android Developer https://www.instagram.com/androidevelopment. Trust me guys...This guy's post is so much helpful to lift up your career in an Android deve
-
-lopment...! smiley
+Android Developer https://www.instagram.com/androidevelopment. Trust me guys...This guy's post is so much helpful to lift up your career in an Android development...!
 
 ## Here Some Most Important Topics I put Below :-
 * Programming
