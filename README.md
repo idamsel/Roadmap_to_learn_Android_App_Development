@@ -1,4 +1,28 @@
 ## Roadmap to learn Android App Development
+If you want to learn very basic tutorials of an Android then I suggest you to go with below link...
+
+Learn Android Tutorial https://www.javatpoint.com/android-tutorial
+
+If you want to go with some advance bootcamp examples then I suggest you to go with below link and it cover most of topics...
+
+Android Tutorial https://www.tutorialspoint.com/android
+
+  Then main part is come and that is about Social Media. 
+   I personally recommand you to go with some legendery persons and find them at YouTube... Go with below link...
+
+CodingWithMitch https://www.youtube.com/codingwithmitch
+
+ResoCoder https://www.youtube.com/resocoder
+
+SmartHerd https://www.youtube.com/smartherd ({This channel provide some fantastic material design in android tutorial, Android Jetpack and many more})
+
+  At Instagram also you find some learning accounts. My favourite one is below...
+
+Android Developer https://www.instagram.com/androidevelopment. Trust me guys...This guy's post is so much helpful to lift up your career in an Android deve
+
+lopment...! smiley
+
+## Here Some Most Important Topics I put Below :-
 * Programming
    * Java
    * Kotlin
@@ -132,7 +156,4 @@
      * Playstore
 * Keep Learning and Improving
 
-# ThankYou :relaxed:
-# KeepLearning :smiley:
-# SharingIsAlwaysCaring :heart:
-# MoreToCome :blush:
+
