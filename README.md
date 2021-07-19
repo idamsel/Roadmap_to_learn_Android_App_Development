@@ -1,9 +1,9 @@
 ## Roadmap to learn Android App Development
 If you want to learn very basic tutorials of an Android then I suggest you to go with below link...
 
-Android Development for Beginners :- Part - 1 https://www.youtube.com/watch?v=fis26HvvDII
-
-                                     Part - 2 https://www.youtube.com/watch?v=RcSHAkpwXAQ
+Android Development for Beginners :-  
+ * Part - 1 https://www.youtube.com/watch?v=fis26HvvDII
+ * Part - 2  https://www.youtube.com/watch?v=RcSHAkpwXAQ 
 
 If you want to go with some advance bootcamp examples then I suggest you to go with below link and it cover most of topics...
 
